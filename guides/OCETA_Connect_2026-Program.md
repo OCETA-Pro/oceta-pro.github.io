@@ -17,7 +17,7 @@
 
 ### OCETA Connect Presenters (Chronological Event Matrix)
 
-For technical reasons we will have the VR presentations first.
+For technical reasons we will have the VR presentations first (if it also will be convenent for the presenters).
 
 | **CEST Time** (9 hours ahead of Pacific Time)<br>[Venue] | **Session / Presentation Title** | **Presenter & Affiliation** |
 |---|---|---|
