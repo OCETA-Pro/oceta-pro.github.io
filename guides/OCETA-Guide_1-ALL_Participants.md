@@ -58,4 +58,4 @@ To help you stay up-to-date, ask questions before/during/after the event, and co
 Thank you for being part of the OCETA Experience! Your participation and understanding help us shape the future of OCETA Connect.
 
 # OCETA Arena Map
- a. [See: https://oceta-pro.github.io/guides/OCETA_Arena-Map.html](https://oceta-pro.github.io/guides/OCETA_Arena-Map.html)
+ a. See: [OCETA Arena Map](https://oceta-pro.github.io/guides/OCETA_Arena-Map.html)
