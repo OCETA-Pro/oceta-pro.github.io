@@ -9,7 +9,7 @@
 
 ### How to connect to the OCETA meeting
 
-_________________________________________________________________________
+______________________________________________________________
 Microsoft Teams meeting
 
 [Join:](https://teams.microsoft.com/meet/392331435889291?p=xa4FmJ1zSUT5nhzUad) [https://teams.microsoft.com/meet/392331435889291?p=xa4FmJ1zSUT5nhzUad](https://teams.microsoft.com/meet/392331435889291?p=xa4FmJ1zSUT5nhzUad)
