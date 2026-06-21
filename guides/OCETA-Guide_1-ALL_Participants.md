@@ -15,7 +15,7 @@ and visit [the world’s page:](https://vrch.at/gn38jjmt) [https://vrch.at/gn38j
 To help you stay up-to-date, ask questions before/during/after the event, and connect with the wider OCETA Connect community, we have a dedicated **Microsoft Teams space.**
 
 * **Join the "OCETA Connect Hub" Team on MS Teams:**<br>
-  * **URL:** [General | OCETA Connect | Microsoft Teams](https://teams.microsoft.com/l/team/19%3AnbOz9e0lMqp_xePd1XjyIKPgOVI3vY6SoHIrtNoUoPo1%40thread.tacv2/conversations?groupId=cdb10c5a-a3b9-4ebd-b21d-c677d4454738&tenantId=73689ee1-b42f-4e25-a5f6-66d1f29bc092)
+  * **URL:** [General - OCETA Connect - Microsoft Teams](https://teams.microsoft.com/l/team/19%3AnbOz9e0lMqp_xePd1XjyIKPgOVI3vY6SoHIrtNoUoPo1%40thread.tacv2/conversations?groupId=cdb10c5a-a3b9-4ebd-b21d-c677d4454738&tenantId=73689ee1-b42f-4e25-a5f6-66d1f29bc092)
 * **Within the MS Team, you'll find dedicated channels for:**
   * for general announcements, event updates, and overall OCETA Connect news.
 
