@@ -8,7 +8,7 @@
 6.​ OCETA Operators Area (black arrow).
 
 
-![Image 1 from page 1](images/page1_img1.png)
+![Image 1 from page 1](OCETA_Arena-Map/page1_img1.png)
 
 
 # After you join VR Chat OCETA Arena
@@ -27,7 +27,7 @@ screen on the front wall will show up. In case of synchronisation problems (slid
 ​
 
 
-![Image 1 from page 2](images/page2_img1.png)
+![Image 1 from page 2](OCETA_Arena-Map/page2_img1.png)
 
 
 ---
@@ -36,14 +36,14 @@ screen on the front wall will show up. In case of synchronisation problems (slid
 4.​ Audience Seats and Speak Aloud activation white-red lines (blue arrow). ​
 
 
-![Image 1 from page 3](images/page3_img1.png)
+![Image 1 from page 3](OCETA_Arena-Map/page3_img1.png)
 
 
 ​
 5.​ Speakers Area with indirect slides control buttons and presentation preview screen ​
 
 
-![Image 2 from page 3](images/page3_img2.png)
+![Image 2 from page 3](OCETA_Arena-Map/page3_img2.png)
 
 
 ​
@@ -62,4 +62,4 @@ screen on the front wall will show up. In case of synchronisation problems (slid
 ​
 
 
-![Image 1 from page 4](images/page4_img1.png)
+![Image 1 from page 4](OCETA_Arena-Map/page4_img1.png)
