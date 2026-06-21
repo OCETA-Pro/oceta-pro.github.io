@@ -23,7 +23,7 @@ ____________________________________________________________________________
 
 ---
 
-1. Click "**Cancel** " to decline MS Teams standalone desktop application<br>
+1. Click "**Cancel**" to decline MS Teams standalone desktop application<br>
 
 ![Image 1 from page 2](OCETA_Lounge-Guide_0-MS_Teams_Participants/page2_img1.png)
 
