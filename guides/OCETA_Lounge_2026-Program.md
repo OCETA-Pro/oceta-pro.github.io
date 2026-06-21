@@ -1,19 +1,18 @@
-# OCETA Lounge 2026 
-# - Preliminary Program -
+# OCETA Lounge 2026 - Program
 
-**Date:**  11 June 2026
-**Time Zone:**  CEST (Central European Summer Time, UTC+2). Central European Summer Time
-(CEST) is exactly 9 hours ahead of Pacific Time.
-**Primary Venue:**  OCETA Connect Arena (VRChat)
-**Fallback/2D Stream:**  Microsoft Teams Live Stream Hub
+**Date:**  11 June 2026 <br>
+**Time Zone:**  CEST (Central European Summer Time, UTC+2). Central European Summer Time 
+(CEST) is exactly 9 hours ahead of Pacific Time.  <br> <br>
+**VR Venue:**  OCETA Connect Arena (VRChat)  <br>
+**2D Screens Venue:**  Microsoft Teams Live Stream Hub <br>
 
-OCETA Lounge Audience Participants
+### OCETA Lounge Audience Participants
 
 * Joshua Rivera, California State University, Channel Islands<br>
 * Ayaulym Akkulova, Abai University<br>
 * Szymon Krakowski, Adam Mickiewicz University in Poznań<br>
 
-OCETA Lounge Presenters (Chronological Event Matrix)
+### OCETA Lounge Presenters (Chronological Event Matrix)
 
 | **CEST Time** (9 hours ahead of Pacific Time) | **Session / Presentation Title** | **Presenter & Affiliation** |
 |---|---|---|
@@ -26,13 +25,13 @@ OCETA Lounge Presenters (Chronological Event Matrix)
 | **19:30 - 19:50 (VR)** | **AI-driven 3D model generation in the context of 3D printing**<br>• *15 min talk + 5 min Q&A* | **Krystian Olesiejko**<br>Adam Mickiewicz University in Poznań |
 | **19:50 - 20:10** | **Beyond simple automation: Simulation environment for AI agents in emergency scenarios**<br>• *15 min talk + 5 min Q&A* | **Eryk Piasecki**<br>Adam Mickiewicz University in Poznań |
 
-## OCETA Operators & Support Team
+### OCETA Operators & Support Team
 
 * Szymon Krakowski, Adam Mickiewicz University in Poznań<br>
 * Maksymilian Czart, Adam Mickiewicz University in Poznań<br>
 * Wojciech Czart, Adam Mickiewicz University in Poznań (OCETA Lead)<br>
 
-Views from VR Chat OCETA Arena
+### Views from VR Chat OCETA Arena
 
 Screen from “**Zero-Trust AI: Securing Sensitive Data Through Local-Only Processing”** VR
 Chat presentation by **Miłosz Klim**
