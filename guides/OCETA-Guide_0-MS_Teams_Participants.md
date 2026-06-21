@@ -25,43 +25,43 @@ ____________________________________________________________________________
 
 1. Click "**Cancel**" to decline MS Teams standalone desktop application<br>
 
-![Image 1 from page 2](OCETA_Lounge-Guide_0-MS_Teams_Participants/page2_img1.png)
+![Image 1 from page 2](OCETA-Guide_0-MS_Teams_Participants/page2_img1.png)
 
 2. Click “**Continue**  **on**  **this**  **browser”**<br>
 
-![Image 2 from page 2](OCETA_Lounge-Guide_0-MS_Teams_Participants/page2_img2.png)
+![Image 2 from page 2](OCETA-Guide_0-MS_Teams_Participants/page2_img2.png)
 
 ---
 
 3. Set your **microphone**  access **ON,**  then click “**Join**  **now**”<br>
 
-![Image 1 from page 3](OCETA_Lounge-Guide_0-MS_Teams_Participants/page3_img1.png)
+![Image 1 from page 3](OCETA-Guide_0-MS_Teams_Participants/page3_img1.png)
 
 ### Sharing your presentation
 
-1. The most important icons/actions in the meeting window from the left: “**Chat**” - Open/Close Chat panel, “**Mic** ” - Microphone ON/OFF, “**Share** ” - to share your screen/presentation
+1. The most important icons/actions in the meeting window from the left: “**Chat**” - Open/Close Chat panel, “**Mic**” - Microphone ON/OFF, “**Share**” - to share your screen/presentation
 
-![Image 2 from page 3](OCETA_Lounge-Guide_0-MS_Teams_Participants/page3_img2.png)
+![Image 2 from page 3](OCETA-Guide_0-MS_Teams_Participants/page3_img2.png)
 
 ---
 
 2. To **Share** your presentation<br>
 
-![Image 1 from page 4](OCETA_Lounge-Guide_0-MS_Teams_Participants/page4_img1.png)
+![Image 1 from page 4](OCETA-Guide_0-MS_Teams_Participants/page4_img1.png)
 
 ---
 
 3. Select appropriate type of sharing<br>
 
-![Image 1 from page 5](OCETA_Lounge-Guide_0-MS_Teams_Participants/page5_img1.png)
+![Image 1 from page 5](OCETA-Guide_0-MS_Teams_Participants/page5_img1.png)
 
 4. Eg. “**Window** ” then select the window with presentation you want to share, and click “**Share**”
 
 ---
 
-![Image 1 from page 6](OCETA_Lounge-Guide_0-MS_Teams_Participants/page6_img1.png)
+![Image 1 from page 6](OCETA-Guide_0-MS_Teams_Participants/page6_img1.png)
 
 5. Then at the bottom of your screen you should see the stripe indicating that you are sharing your presentation.
 
-![Image 2 from page 6](OCETA_Lounge-Guide_0-MS_Teams_Participants/page6_img2.png)
+![Image 2 from page 6](OCETA-Guide_0-MS_Teams_Participants/page6_img2.png)
 
