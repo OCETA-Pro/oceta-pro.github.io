@@ -27,7 +27,7 @@ For technical reasons we will have the VR presentations first (if it also will b
 | **17:40 - 18:00**<br>[VR Chat] | **Beyond simple automation: Simulation environment for AI agents in emergency scenarios** | **Eryk Piasecki**<br>Adam Mickiewicz University in Poznań |
 | **18:00 - 18:20**<br>[?] | **IPC4MH – Metaverse Clinic for Mental Health** | **Antoine Widmer**<br>Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
 | **18:20 - 18:40**<br>[MS Teams] | **Social Media Text as Data: Exploring the Potential and Limitations of Automated Content Analysis Methods.** | **Zhenning Xu**<br>California State University, Bakersfield |
-| **18:40 - 19:00**<br>[MS Teams] | **Brain computer interface**<br>(?) | **Artur Szałowski**<br>South East Technological University, Ireland |
+| **18:40 - 19:00**<br>[MS Teams] | **AI Tools and Application for Teaching TV and Media Production**<br> | **Artur Szałowski**<br>South East Technological University, Ireland |
 
 ### OCETA Operators & Support Team
 
