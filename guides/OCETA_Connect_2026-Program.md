@@ -17,12 +17,12 @@
 
 #### OCETA Connect Organizing Committee
 
-* Wojciech Czart, Adam Mickiewicz University in Poznań, Poland <br>
-* Natalie Sarrasin and Monica Zumstein, Haute École Spécialisée de Suisse Occidentale Valais-Wallis, Switzerland <br>
+* Wojciech Czart, Adam Mickiewicz University in Poznań <br>
+* Natalie Sarrasin and Monica Zumstein, Haute École Spécialisée de Suisse Occidentale Valais-Wallis <br>
 
 #### OCETA Connect and OCETA Lounge Partners
-* Artur Szałowski, South East Technological University, Ireland <br>
-* Zhenning Xu, California State University, Bakersfield, USA <br>
+* Artur Szałowski, South East Technological University <br>
+* Zhenning Xu, California State University, Bakersfield <br>
 
 #### OCETA Technical Support Team
 
