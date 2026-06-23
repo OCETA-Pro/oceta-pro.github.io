@@ -7,13 +7,7 @@
 **Fallback/2D Stream:**  Microsoft Teams Live Stream Hub <br>
 **Presentation time** : 15 min talk + 5 min Q&A <br>
 
-
-### OCETA Connect Organizing Committee
-
-* Natalie Sarrasin and Monica Zumstein, Haute École Spécialisée de Suisse Occidentale Valais-Wallis <br>
-* Wojciech Czart, Adam Mickiewicz University in Poznań <br>
-
-### OCETA Connect Invited Guests
+#### OCETA Connect Honored Guests
 
 * Liz Gray, Fanshawe College<br>
 * Harold Boeck, University of Québec<br>
@@ -21,7 +15,21 @@
 * Dušan Mladenović, Masaryk University<br>
 * Rafał Pietrzyk, Adam Mickiewicz University in Poznań<br>
 
-### OCETA Connect Presenters (Chronological Event Matrix)
+#### OCETA Connect Organizing Committee
+
+* Wojciech Czart, Adam Mickiewicz University in Poznań, Poland <br>
+* Natalie Sarrasin and Monica Zumstein, Haute École Spécialisée de Suisse Occidentale Valais-Wallis, Switzerland <br>
+
+#### OCETA Connect and OCETA Lounge Partners
+* Artur Szałowski, South East Technological University, Ireland <br>
+* Zhenning Xu, California State University, Bakersfield, USA <br>
+
+#### OCETA Technical Support Team
+
+* Szymon Krakowski, Adam Mickiewicz University in Poznań<br>
+* Maksymilian Czart, Adam Mickiewicz University in Poznań<br>
+
+## OCETA Connect Presenters (Chronological Event Matrix)
 
 For technical reasons we will have the VR presentations first (if it also will be convenent for the presenters).
 
@@ -35,8 +43,3 @@ For technical reasons we will have the VR presentations first (if it also will b
 | **18:20 - 18:40**<br>[MS Teams] | **Social Media Text as Data: Exploring the Potential and Limitations of Automated Content Analysis Methods.** | **Zhenning Xu**<br>California State University, Bakersfield |
 | **18:40 - 19:00**<br>[MS Teams] | **AI Tools and Application for Teaching TV and Media Production**<br> | **Artur Szałowski**<br>South East Technological University, Ireland |
 
-### OCETA Operators & Support Team
-
-* Szymon Krakowski, Adam Mickiewicz University in Poznań<br>
-* Maksymilian Czart, Adam Mickiewicz University in Poznań<br>
-* Wojciech Czart, Adam Mickiewicz University in Poznań (OCETA Lead)
