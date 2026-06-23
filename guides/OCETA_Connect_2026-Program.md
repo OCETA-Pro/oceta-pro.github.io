@@ -7,6 +7,13 @@
 **Fallback/2D Stream:**  Microsoft Teams Live Stream Hub <br>
 **Presentation time** : 15 min talk + 5 min Q&A <br>
 
+
+### OCETA Connect Organizing Committee
+
+* Natalie Sarrasin and Monica Zumstein, Haute École Spécialisée de Suisse Occidentale Valais-Wallis <br>
+* Wojciech Czart, Adam Mickiewicz University in Poznań <br>
+
+
 ### OCETA Connect Invited Guests
 
 * Liz Gray, Fanshawe College<br>
