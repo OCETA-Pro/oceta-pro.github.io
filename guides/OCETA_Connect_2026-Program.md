@@ -42,8 +42,8 @@ For technical reasons we will have the VR presentations first (if it also will b
 | **17:15 (8:15 am PT) - 17:35**<br>[VR Chat] | **The Spatial Orchestrator: Evolving OCETA from 2025 AI-Assistance to 2026 Agentic Orchestration** | **Wojciech Czart**<br>Adam Mickiewicz University in Poznań |
 | **17:35 (8:35 am PT) - 17:55**<br>[VR Chat] | **Zero-Trust AI: Securing Sensitive Data Through Local-Only Processing** | **Miłosz Klim**<br>Adam Mickiewicz University in Poznań |
 | **17:55 (8:55 am PT) - 18:15**<br>[VR Chat] | **Beyond simple automation: Simulation environment for AI agents in emergency scenarios** | **Eryk Piasecki**<br>Adam Mickiewicz University in Poznań |
-| **18:15 (9:15 am PT) - 18:35**<br>[?] | **IPC4MH – Metaverse Clinic for Mental Health** | **Antoine Widmer**<br>Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
+| **18:15 (9:15 am PT) - 18:35**<br>[?] | **Canceled (unavoidable circumstance)** <br>- possible substitution | **Antoine Widmer**<br>Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
 | **18:35 (9:35 am PT) - 18:55**<br>[MS Teams] | **Social Media Text as Data: Exploring the Potential and Limitations of Automated Content Analysis Methods.** | **Zhenning Xu**<br>California State University, Bakersfield |
 | **18:55 (9:55 am PT) - 19:15**<br>[MS Teams] | **AI Tools and Application for Teaching TV and Media Production**<br> | **Artur Szałowski**<br>South East Technological University, Ireland |
-| **17:00 (8 am PT) - 17:15**<br> | **OCETA Conncect 2026 Conference Opening** | **Natalie Sarrasin** and **Monica Zumstein**, Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
+| **19:15 (10:15 am PT) - 19:20**<br>[MS Teams] | **OCETA Conncect 2026 Conference Closing** | **Natalie Sarrasin** and **Monica Zumstein**, Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
 | | | |
