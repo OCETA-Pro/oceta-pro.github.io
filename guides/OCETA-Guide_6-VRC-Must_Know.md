@@ -1,38 +1,46 @@
-# Guide 4: MS Teams Presenters (MSTP)
+# Guide 6: VR Chat Must Know
 
-**Welcome, OCETA Connect MS Teams Presenter!**
+### Joining the OCETA Arena world
 
-We're delighted to have you present at our hybrid event. Here’s what you need to know:
+If I am not your frind on VR Chat yet, send me the friend request.
+Search for me (username: **_xCaprainx_**) (red arrow and send me friend request), and if we are already friends, click my icon in the Social menu "All Friends"
 
-* **Read "Guide 1: Instructions for ALL Participants" First!**<br>
-* **Your Presentation Environment:**<br>
-  * You will be presenting directly within the **OCETA Connect MS Teams meeting.**
-  * You will **manage your own screen sharing**  to display your presentation.
-  * Your presentation and voice will be seen/heard by MS Teams attendees directly, and also streamed into the VRChat "OCETA Connect Arena" for the immersive audience.
-* **Slide Control:**<br>
-  * Since you are sharing your screen directly in MS Teams, you will advance your own slides as you normally would.
-* **Audio & Speaking:**<br>
-  * Ensure your microphone in MS Teams is working clearly.
-  * Speak clearly and at a moderate pace, mindful of the streaming delay for the VRChat audience.
-* **Technical Setup:**<br>
-  * Join the OCETA Connect MS Teams meeting at least **10-15 minutes before your**
-**scheduled presentation time**  for a final tech check with the OCETA Lead.
-* **If Technical Issues Occur:**<br>
-  * Stay calm. If your MS Teams connection has issues, try to rejoin.
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Friend.png)
 
-Thank you for presenting at OCETA Experience!
+ and click "Join".
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Friend-Join.png)
 
-# Guide 5: MS Teams Audience (MSTA)
+### In case of problems with presentation video screen in VRChat world 
 
-**Welcome to OCETA Connect - MS Teams Viewing!**
+Might happen that your video will be much delayed, frozen or lost. 
+In this case try to resync your stream by using: 
 
-We're glad you could join us remotely. Here’s how to participate:
+#### Try to use "Rejoin Stream" or "Resync Stream" buttons on left side wall
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-OCETA-Stream-Join-Resync.png)
 
-* **Read "Guide 1: Instructions for ALL Participants" First!**<br>
-* **Asking Questions:**<br>
-  * Please use the **MS Teams Chat function**  to type your questions for presenters at any time.
-  * Our Communication Manager or OCETA Lead will monitor the chat and relay questions to the presenters during Q&A sessions.
+#### or try to use a "Respawn" function (red arrow) in the Menu
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Respawn.png)
 
----
+#### or try to use a "Rejoin" function in the Menu
 
-Thank you for joining OCETA Connect!
+In Main Menu click Worlds button (yellow arrow on previous image). Then click "Current World" button (red arrow on following image).
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Current_World.png)
+
+Then click Rejoin button for current world
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Rejoin.png)
+
+
+### In case of problems with Audio
+
+In Menu click on the Speaker icon (red arrow).
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Audio.png)
+
+Then adjust respective Volume slider
+
+Master is for all sounds. 
+World is for world sounds like presentations video player etc. 
+Voices is for other players' avatar voices.
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Audio-Volume.png)
+
+
+
