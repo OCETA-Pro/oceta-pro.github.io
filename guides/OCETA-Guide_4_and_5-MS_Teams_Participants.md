@@ -1,8 +1,8 @@
-# Guide 4: MS Teams Presenters (MSTP)
+# Guide 4: MS Teams Presenters (MSTP) 
 
 **Welcome, OCETA Connect MS Teams Presenter!**
 
-We're delighted to have you present at our hybrid event. Here’s what you need to know:
+We're delighted to have you present at our hybrid event. Here’s what you need to know: 
 
 * **Read "Guide 1: Instructions for ALL Participants" First!**<br>
 * **Your Presentation Environment:**<br>

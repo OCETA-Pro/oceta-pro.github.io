@@ -40,7 +40,7 @@ Then adjust respective Volume slider
 Master is for all sounds. 
 World is for world sounds like presentations video player etc. 
 Voices is for other players' avatar voices.
-![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Audio-Volume.png)
+![alt text](OCETA-Guide_6-VRC-Must_Know/VRC-Menu-Audio-Volume.png) 
 
 
 
