@@ -39,7 +39,7 @@ For technical reasons we will have the VR presentations first (if it also will b
 |---|---|---|
 | **16:00 - 17:00** | **Technical Infrastructure & Setup Check**<br>• AV routing and NDI capture stabilization. | **OCETA Technical Team** |
 | **17:00 (8 am PT) - 17:15**<br> | **OCETA Conncect 2026 Conference Opening** | **Natalie Sarrasin** and **Monica Zumstein**, Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
-| **17:15 (8:15 am PT) - 17:35**<br>[VR Chat] | **The Spatial Orchestrator: Evolving OCETA from 2025 AI-Assistance to 2026 Agentic Orchestration** | **Wojciech Czart**<br>Adam Mickiewicz University in Poznań |
+| **17:15 (8:15 am PT) - 17:35**<br>[VR Chat] | **Intelligence Extraction Pipeline - Converting Raw AI Context Windows into a Structured Knowledge Architecture** | **Wojciech Czart**<br>Adam Mickiewicz University in Poznań |
 | **17:35 (8:35 am PT) - 17:55**<br>[VR Chat] | **Zero-Trust AI: Securing Sensitive Data Through Local-Only Processing** | **Miłosz Klim**<br>Adam Mickiewicz University in Poznań |
 | **17:55 (8:55 am PT) - 18:15**<br>[VR Chat] | **Beyond simple automation: Simulation environment for AI agents in emergency scenarios** | **Eryk Piasecki**<br>Adam Mickiewicz University in Poznań |
 | **18:15 (9:15 am PT) - 18:35**<br>[?] | **Canceled (unavoidable circumstance)** <br>- possible substitution | **Antoine Widmer**<br>Haute École Spécialisée de Suisse Occidentale Valais-Wallis |
