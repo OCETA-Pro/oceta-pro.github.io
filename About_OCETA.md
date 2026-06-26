@@ -2,7 +2,7 @@
 
 ## **1. Our Philosophy and Community**
 
-OCETA is an interdisciplinary initiative designed to bridge Cutting-Edge Technologies (such as AI, XR, and New Media) with practical, real-world applications. Our core mission is to welcome "people of good will under an academic umbrella".
+OCETA is an interdisciplinary initiative designed to bridge Cutting-Edge Technologies (such as AI, XR, and New Media) with research, practical and real-world applications. Our core mission is to provide a professional experience exchange platform for students, faculty members, and industry experts under an academic umbrella.
 
 To maintain a high standard of trust, safety, and rigorous discourse, the OCETA community operates on an **invite-only, trust-based network**. Participation is curated through a "friends-of-friends" model, ensuring that every participant, faculty member, and student is tethered to a trusted academic or industry peer.
 
