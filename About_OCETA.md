@@ -1,4 +1,4 @@
-# **About OCETA 2026-2027: The Open Cutting-Edge Technologies Academia**
+# **About OCETA 2027: The Open Cutting-Edge Technologies Academia**
 
 ## **1. Our Philosophy and Community**
 
