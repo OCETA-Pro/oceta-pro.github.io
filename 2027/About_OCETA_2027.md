@@ -23,7 +23,7 @@ OCETA Lounge Winter/Summer Conferences are conferences dedicated for students.
 
 **Factory Project Phase:**
 * **The Execution Phase:** The culmination of the academic year's work.
-* **Format:** We assume ideas might change during the year as understanding, needs and technolofy evolve. Students present changes, evolution and challenges they faced and overcame on their way from the initial planes from the **Strategic Phase**, reaching the final specifications, implementation plans, completed results of the project, demos and prototypes.
+* **Format:** We assume ideas might change during the year as understanding, needs and technology evolve. Students present changes, evolution and challenges they faced and overcame on their way from the initial plans from the **Strategic Phase**, reaching the final specifications, implementation plans, completed results of the project, demos and prototypes.
 * **Faculty Integration:** Supervising faculties and educators also present highly practical, student-focused toolsets and methodologies.
 * **The Challenge:** This event serves as a competitive proving ground for students to qualify for the OCETA Connect academic conference.
 
