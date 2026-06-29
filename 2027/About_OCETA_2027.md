@@ -1,5 +1,7 @@
 # **About OCETA 2027: The Open Cutting-Edge Technologies Academia**
 
+**The following is a draft and will get modified.**
+
 ## **1. Our Philosophy and Community**
 
 OCETA is an interdisciplinary initiative designed to bridge Cutting-Edge Technologies (such as AI, XR, and New Media) with research, practical and real-world applications. Our core mission is to provide a professional experience exchange platform for students, faculty members, and industry experts under an academic umbrella.
