@@ -14,14 +14,16 @@ The OCETA framework operates on an annual lifecycle, guiding participants from p
 
 OCETA Lounge Winter/Summer Conferences are conferences dedicated for students.
 
+**Strategic Project Phase:**
 * **The Genesis Phase:** This student-focused event kicks off the academic year.
-* **Format:** Nominated students pitch the AI-assisted or AI-based projects they will develop over the coming months.
+* **Format:** Nominated students pitch - discover/research and analyse/plan - the AI-assisted or AI-based projects they will develop over the coming months.
 * **Focus:** Presentations center on the comprehensive introduction phase: brainstorming, research methodologies, analytics, and optimal project planning (evaluating AI vs. non-AI tooling and methodological strategies for their project's workspace and specific domains).
 
 ### **B. OCETA Lounge Summer (Early June)**
 
+**Factory Project Phase:**
 * **The Execution Phase:** The culmination of the academic year's work.
-* **Format:** Students present the final, completed results of the project plans they announced during the Winter Lounge.
+* **Format:** We assume ideas might change during the year as understanding, needs and technolofy evolve. Students present changes, evolution and challenges they faced and overcame on their way from the initial planes from the **Strategic Phase**, reaching the final specifications, implementation plans, completed results of the project, demos and prototypes.
 * **Faculty Integration:** Supervising faculties and educators also present highly practical, student-focused toolsets and methodologies.
 * **The Challenge:** This event serves as a competitive proving ground for students to qualify for the OCETA Connect academic conference.
 
