@@ -21,17 +21,18 @@ The OCETA framework operates on an annual lifecycle, guiding participants from p
 
 * **The Genesis Phase:** This student-focused event kicks off the academic year.
 * **Format:** Nominated students pitch the AI-assisted or AI-based projects they will develop over the coming months.
-* **Focus:** Presentations center on the initial **Research & Analysis (Strategic) Phase**. This encompasses ideation, research, analysis, the project's brief, and an *optional* introductory specification.
+* **Focus:** Presentations center on the initial **Research & Analysis (Strategic) Phase**. This encompasses ideation, research, analysis, the project's brief, and an *optional* introductory specification. This phase might also include evaluations of AI vs. non-AI tooling and methodological strategies for their project's workspace and specific project domain.
 
 ### **B. OCETA Lounge Summer (Early June)**
 
 **Tactical Project Phase [How and Why]:**
 
 * **The Execution Phase:** The culmination of the academic year's work.
-* **Format:** We assume ideas might change during the year as understanding, needs, and technology evolve. Students present the changes, evolution, and challenges they faced and overcame on their way from the initial plans established in the Strategic Phase.
+* **Format:** We assume ideas might change during the year as understanding, needs, and technology evolve. Students present the changes, evolution, and challenges they faced and overcame on their way from the initial plans established in the *Strategic Phase*. The presentation might include e.g. the way of arriving at the final specifications/Product Requirements, implementation plans, actual project development/implementation, optional production deployment/production optimization, demos and prototypes.
 * **Focus:** Presentations center on the actual **Development (Tactical) Phase**. This encompasses the actual project specification, implementation planning, active implementation, and *optional* production deployment, run, and optimization.
 * **Faculty Integration:** Supervising faculties and educators also present highly practical, student-focused toolsets and methodologies.
 * **The Challenge:** This event serves as the official qualification platform for students to earn a presentation slot at the main OCETA Connect academic conference.
+
 
 ### **C. OCETA Connect (Late June)**
 
