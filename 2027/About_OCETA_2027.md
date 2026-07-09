@@ -1,5 +1,5 @@
 
-# **About OCETA 2027: The Open Cutting-Edge Technologies Academia**
+# **DRAFT: About OCETA 2027: The Open Cutting-Edge Technologies Academia**
 
 **The following is a draft and will get modified.**
 
