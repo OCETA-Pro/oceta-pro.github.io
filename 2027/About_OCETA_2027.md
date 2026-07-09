@@ -30,7 +30,7 @@ The OCETA framework operates on an annual lifecycle, guiding participants from p
 * **The Execution Phase:** The culmination of the academic year's work.
 * **Format:** We assume ideas might change during the year as understanding, needs, and technology evolve. Students present the changes, evolution, and challenges they faced and overcame on their way from the initial plans established in the *Strategic Phase*. The presentation might include e.g. the way of arriving at the final specifications/Product Requirements, implementation plans, actual project development/implementation, optional production deployment/production optimization, demos and prototypes.
 * **Focus:** Presentations center on the actual **Development (Tactical) Phase**. This encompasses the actual project specification, implementation planning, active implementation, and *optional* production deployment, run, and optimization.
-* **Faculty Integration:** Supervising faculties and educators also present highly practical, student-focused toolsets and methodologies.
+* **Faculty Integration:** Supervising faculties and educators can optionally present class/student-oriented presentations.
 * **The Challenge:** This event serves as the official qualification platform for students to earn a presentation slot at the main OCETA Connect academic conference.
 
 
