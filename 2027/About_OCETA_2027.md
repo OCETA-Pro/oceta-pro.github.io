@@ -1,27 +1,28 @@
 
-# **DRAFT: About OCETA 2027: The Open Cutting-Edge Technologies Academia**
+# **DRAFT: About OCETA Ecosystem 2027: The Open Cutting-Edge Technologies Academia**
 
 **The following is a draft and will get modified.**
 
 ## **1. Our Philosophy and Community**
 
-OCETA is an interdisciplinary initiative designed to bridge Cutting-Edge Technologies (such as AI, XR, and New Media) with research, practical and real-world applications. Our core mission is to provide a professional experience exchange platform for students, faculty members, and industry experts under an academic umbrella.
+OCETA Ecosystem is an interdisciplinary initiative designed to bridge Cutting-Edge Technologies (such as AI, XR, and New Media) with research, practical and real-world applications. Our core mission is to provide a professional experience exchange platform for students, faculty members, and industry experts under an academic umbrella.
 
-To maintain a high standard of trust, safety, and rigorous discourse, the OCETA community operates on an **invite-only, trust-based network**. Participation is curated through a "friends-of-friends" model, ensuring that every participant, faculty member, and student is tethered to a trusted academic or industry peer.
+To maintain a high standard of trust, safety, and rigorous discourse, the OCETA C   ommunity operates on an **invite-only, trust-based network**. Participation is curated through a "friends-of-friends" model, ensuring that every participant, faculty member, and student is tethered to a trusted academic or industry peer.
 
 ## **2. The Annual Event Ecosystem**
 
-The OCETA framework operates on an annual lifecycle, guiding participants from project conception to high-level academic dissemination across three distinct hybrid events (hosted simultaneously in the VRChat Arena and Microsoft Teams).
+The OCETA Ecosystem operates on an annual lifecycle, guiding participants from project conception to high-level academic dissemination across three distinct hybrid events (hosted simultaneously in the VRChat Arena and Microsoft Teams).
 
 ### **A. OCETA Lounge Winter (Late October / Early November)**
 
-*OCETA Lounge Winter and Summer Conferences are dedicated platforms for students.*
+*While the Summer Conference is dedicated primarily to students, the OCETA Lounge Winter 2026 conference will not only be for students but also for faculties' projects' initialization phase.*
 
 **Strategic Project Phase [What and Why]:**
 
-* **The Genesis Phase:** This student-focused event kicks off the academic year.
-* **Format:** Nominated students pitch the AI-assisted or AI-based projects they will develop over the coming months.
+* **The Genesis Phase:** This event kicks off the academic year for the initial research and analysis phase of both students' and faculties' OCETA Ecosystem 2027 projects.
+* **Format:** Nominated students and faculties pitch the AI-assisted or AI-based projects they will develop over the coming months. The conference features speakers and poster sessions alike.
 * **Focus:** Presentations center on the initial **Research & Analysis (Strategic) Phase**. This encompasses ideation, research, analysis, the project's brief, and an *optional* introductory specification. This phase might also include evaluations of AI vs. non-AI tooling and methodological strategies for their project's workspace and specific project domain.
+* **Demonstration Projects:** The event features selected optional projects demonstrating the complete process of a year-long project development, as well as a demo presentation on how to complete the initial phase as a base for a year-long development leading up to OCETA Connect 2027.
 
 ### **B. OCETA Lounge Summer (Early June)**
 
