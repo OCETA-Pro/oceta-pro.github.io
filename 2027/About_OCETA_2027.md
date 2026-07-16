@@ -21,7 +21,9 @@ The OCETA Ecosystem operates on an annual lifecycle, guiding participants from p
 
 * **The Genesis Phase:** This event kicks off the academic year for the initial research and analysis phase of both students' and faculties' OCETA Ecosystem 2027 projects.
 * **Format:** Nominated students and faculties pitch the AI-assisted or AI-based projects they will develop over the coming months. The conference features speakers and poster sessions alike.
+* **Broader Audience:** We are inviting a broader guest audience of OCETA Community student supervisors, as these presentations provide valuable insights into AI Tech applications that can be useful to all faculties and students.
 * **Focus:** Presentations center on the initial **Research & Analysis (Strategic) Phase**. This encompasses ideation, research, analysis, the project's brief, and an *optional* introductory specification. This phase might also include evaluations of AI vs. non-AI tooling and methodological strategies for their project's workspace and specific project domain.
+* **Topics & Best Practices:** Since AI, XR, and New Media are the core technologies of OCETA, a project's overarching concept can be from any domain as long as it incorporates aspects of these technologies. While the technologies may just be aspects of the broader project, these aspects must form the core focus of the OCETA presentation itself. Presenters are also encouraged to share their experiences with AI workshops, project management tools, and how these technologies are embedded within the projects' domains themselves.
 * **Demonstration Projects:** The event features selected optional projects demonstrating the complete process of a year-long project development, as well as a demo presentation on how to complete the initial phase as a base for a year-long development leading up to OCETA Connect 2027.
 
 ### **B. OCETA Lounge Summer (Early June)**
