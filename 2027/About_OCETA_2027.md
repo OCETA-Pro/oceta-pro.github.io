@@ -1,6 +1,6 @@
 ### **Document: About_OCETA_2027.md**
 
-# **About OCETA Ecosystem 2027: The Open Cutting-Edge Technologies Academia**
+# **[DRAFT] About OCETA Ecosystem 2027: The Open Cutting-Edge Technologies Academia**
 
 **The following is a draft and will get modified.**
 
